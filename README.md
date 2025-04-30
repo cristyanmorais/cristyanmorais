@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristyan</h1>
 <h3 align="center">Young Full Stack Developer from Brasil.</h3>
 
-- 🔭 I’m currently working on **React and Node Systems**
+- 🔭 I’m currently working on **React and Laravel Systems**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **cmoraisdev@gmail.com**
 
